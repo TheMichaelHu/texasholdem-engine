@@ -1,6 +1,6 @@
 #! /bin/bash
 
-rm starterBot.zip
-cd starterBot
-zip -r ./starterBot.zip ./*
-mv ./starterBot.zip ..
+rm pythonBot.zip
+cd pythonBot
+zip -r ./pythonBot.zip ./*
+mv ./pythonBot.zip ..
